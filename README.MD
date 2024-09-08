@@ -64,7 +64,7 @@ The git `push` command will enable you to sync all the changes made locally to t
 
 5.1 Run the following command with your actual HTTPS link:
 ```
-git push [HTTPS link]
+ git push --set-upstream https://gitlab.com/bluebayhitechlab/git_guide.git master
 ```
 You will be prompted by git for your username and password.
 
