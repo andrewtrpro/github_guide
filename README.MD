@@ -28,8 +28,8 @@ Because this is first time you're using git, you need to set your display name a
 
 3.1 Run the following commands, substituting your email and display name:
 ```
-git config --global user.email protadtv@gmail.com
-git config --global user.name "Pro Tad TV"
+git config --global user.email andrewtrpro@gmail.com
+git config --global user.name "andrewtrpro"
 ```
 
 
@@ -64,7 +64,7 @@ The git `push` command will enable you to sync all the changes made locally to t
 
 5.1 Run the following command with your actual HTTPS link:
 ```
- git push --set-upstream https://github.com/bluebayhitechlab/git_guide.git master
+ git push --set-upstream https://github.com/andrewtrpro/github_guide.git master
 ```
 You will be prompted by git for your username and password.
 
